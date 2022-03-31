@@ -90,6 +90,7 @@ line-height: 1.875;
 letter-spacing: 0.06em;
 background: var(--main-color);
 color: #FFFFFF;
+cursor: pointer;
 }
 
 .description-name{

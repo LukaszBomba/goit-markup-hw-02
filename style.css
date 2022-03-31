@@ -90,8 +90,9 @@ line-height: 1.875;
 letter-spacing: 0.06em;
 background: var(--main-color);
 color: #FFFFFF;
-cursor: pointer;
+cursor: pointer
 }
+
 
 .description-name{
 font-weight: 700;
@@ -162,3 +163,83 @@ letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 }
 /* ============ END CONTACT =========== */
+
+
+
+
+/* ============ PORTFOLIO =========== */
+
+/* ============ HEADER =========== */
+.portfolio-link-item-P {
+    color: var(--main-color);
+}
+.portfolio-link-item-P {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.142;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-link-item-A,
+.portfolio-link-item-K {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.142;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.portfolio-link-item-A:focus,
+.portfolio-link-item-A:hover,
+.portfolio-link-item-K:focus, 
+.portfolio-link-item-K:hover {
+    color: var(--main-color);
+}
+/* ============ END HEADER =========== */
+
+
+/* ============ MAIN PORTFOLIO =========== */
+.btn-item {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.625;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+background: #F5F4FA;
+}
+
+.btn-item:hover,
+.btn-item:focus {
+background-color: var(--main-color);
+cursor: pointer;
+}
+
+.img-name {
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121;
+
+}
+
+.function {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.875;
+letter-spacing: 0.03em;
+color: #757575;
+}
+/* ============ END MAIN PORTFOLIO =========== */
+
+
+/* ============ FOOTER PORTFOLIO =========== */
+
+
+
+/* ============ END FOOTER PORTFOLIO =========== */
+
+/* ============ END PORTFOLIO =========== */

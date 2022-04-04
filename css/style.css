@@ -10,7 +10,7 @@
  
 body {
 font-family: var(--main-font);
-color:#212121;
+color:var(--black-color);
 }
 
 /* ============ COMPONENTS =========== */

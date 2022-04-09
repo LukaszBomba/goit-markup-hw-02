@@ -1,2 +1,2 @@
 # goit-markup-hw-02
-Zadanie Domowe #2 HTML
+Zadanie Domowe #2 HTML+CSS
